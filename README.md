@@ -8,7 +8,7 @@ This project was created as a hands-on practice to strengthen MERN stack skills,
 
 ## 📸 Preview
 
-![Project Preview](![ProjectSS](https://github.com/user-attachments/assets/f8e4d4a3-2061-4c0f-a23f-1b2738ec9cec)
+![Project Preview](https://github.com/user-attachments/assets/f8e4d4a3-2061-4c0f-a23f-1b2738ec9cec)
 ) <!-- Replace with your actual image path -->
 
 ---
