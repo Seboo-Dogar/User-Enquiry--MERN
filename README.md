@@ -91,7 +91,7 @@ Create a `.env` file in the `server` directory and add:
 
 ```
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
+DP_URL=your_mongodb_connection_string
 ```
 
 Start the backend server:
